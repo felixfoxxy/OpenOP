@@ -1,0 +1,7 @@
+name: OpenOP
+version: '${version}'
+main: dev.felixfoxxy.openop.OpenOP
+api-version: '1.21'
+authors: [FelixFoxxy]
+description: A Plugin for OP Anarchy servers
+website: https://felixfoxxy.dev/
